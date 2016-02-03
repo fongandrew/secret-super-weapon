@@ -8,6 +8,8 @@
   },
   "exclude": [
     "node_modules",
-    "meteor"
+    "meteor",
+    "typings/browser",
+    "typings/browser.d.ts"
   ]
 }
